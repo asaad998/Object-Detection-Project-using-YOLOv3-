@@ -1,0 +1,22 @@
+Parking
+No Left Turn
+No Right Turn
+Left Turn
+No Waiting
+No Parking Stopping
+Right Turn
+g
+Car
+No Entry
+Bus
+Person
+Red Traffic Light
+Green Traffic Light
+Yellow Traffic Light
+Pedestrian Crossing
+No U Turn
+U Turn
+No Parking
+Hump
+S T O P
+Give way to oncoming vehicles
